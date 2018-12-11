@@ -1,12 +1,9 @@
 This file is for testing only. It contains nothing important.
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+Really. (Stash this)
 
 Wohoo! The file changed back when I stashed!
-=======
-Really. (Stash this)
->>>>>>> Stashed changes
-=======
-Really. (Stash this)
->>>>>>> Stashed changes
+
+
+
+
